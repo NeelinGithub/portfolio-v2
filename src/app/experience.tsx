@@ -6,20 +6,14 @@ import { FaBriefcase} from "react-icons/fa";
 const experience = [
   {
     id: 1,
-    title: "AI Trainer - Outlier",
-    date: "Feb 2025 - Present",
+    title: "Oswald Tech - Software Engineer",
+    date: "May 2024 - May 2025",
     description: "Developed and optimized software solutions, contributing to data analysis and automation processes to enhance business performance.",
-    icon: <Image src="/outlier-image.jpeg" alt="AI Trainer Icon" width={40} height={40} />,
-  },
-  {
-    id: 2,
-    title: "Narayan Exports - Software Developer",
-    date: "May 2024 - September 2024",
-    description: "Built and maintained custom software applications to streamline export processes and improve operational efficiency.",
     icon: <FaBriefcase />,
   },
+ 
   {
-    id: 3,
+    id: 2,
     title: "Kedarnath Industries - SDE Intern",
     date: "May 2023 - September 2023",
     description: " Designed and developed software applications to improve inventory management and operational workflows for the company.",
