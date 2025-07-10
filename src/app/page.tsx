@@ -35,7 +35,7 @@ export default function Home() {
       <nav className="flex space-x-4 p-4 bg-gray-800 rounded-xl shadow-lg hover:bg-gray-700 transition duration-300 text-pretty font-mono">
         <a onClick={() => scrollToSection('projects')} className="text-sm sm:text-base hover:text-blue-400 cursor-pointer">Projects</a>
         <a onClick={() => scrollToSection('experience')} className="text-sm sm:text-base hover:text-blue-400 cursor-pointer">Experience</a>
-        <a href="https://docs.google.com/document/d/1t1xbhbCzpP2ffwsMntz0hicKQn43VxnS/edit?usp=drive_link&ouid=100322184178297813561&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" className="text-sm sm:text-base hover:text-blue-400">Resume</a>
+        <a href="https://drive.google.com/file/d/11eclyYYija7JCdbD8iJ3gPnSfVVHoMoO/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-sm sm:text-base hover:text-blue-400">Resume</a>
         <a onClick={() => scrollToSection('contact')} className="text-sm sm:text-base hover:text-blue-400 cursor-pointer">Contact Me</a>
       </nav>
       
