@@ -22,7 +22,7 @@ const experience = [
 
   {
     id: 3,
-    title: "Oswald Tech - Software Engineer",
+    title: "Narayan Exports - Software Engineer",
     date: "May 2024 - May 2025",
     description: "Developed and optimized software solutions, contributing to data analysis and automation processes to enhance business performance.",
     icon: <FaBriefcase />,
