@@ -6,6 +6,22 @@ import { FaBriefcase} from "react-icons/fa";
 const experience = [
   {
     id: 1,
+    title: "PairGrowth Inc - Software Engineer",
+    date: "January 2026 - July 2026",
+    description: "Built AI-powered solutions for insurance companies, developing software that streamlines and automates insurance workflows.",
+    icon: <FaBriefcase />,
+  },
+
+  {
+    id: 2,
+    title: "Traveltical Inc - Software Developer Intern",
+    date: "August 2025 - December 2025",
+    description: "Worked as a software developer intern, building and shipping features for the company's travel platform.",
+    icon: <Image src="/traveltical%20logo.jpeg" alt="Traveltical Inc Icon" width={40} height={40} />,
+  },
+
+  {
+    id: 3,
     title: "Oswald Tech - Software Engineer",
     date: "May 2024 - May 2025",
     description: "Developed and optimized software solutions, contributing to data analysis and automation processes to enhance business performance.",
@@ -13,7 +29,7 @@ const experience = [
   },
  
   {
-    id: 2,
+    id: 4,
     title: "Kedarnath Industries - SDE Intern",
     date: "May 2023 - September 2023",
     description: " Designed and developed software applications to improve inventory management and operational workflows for the company.",
