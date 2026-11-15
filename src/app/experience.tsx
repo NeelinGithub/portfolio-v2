@@ -8,7 +8,7 @@ const experience = [
     id: 1,
     title: "PairGrowth Inc - Software Engineer",
     date: "January 2026 - July 2026",
-    description: "Built AI-powered solutions for insurance companies, developing software that streamlines and automates insurance workflows.",
+    description: "Built AI-powered software solutions for insurance companies, developing intelligent tools to automate underwriting, claims processing, and policy workflows while integrating LLM-driven features into production systems.",
     icon: <FaBriefcase />,
   },
 
@@ -16,7 +16,7 @@ const experience = [
     id: 2,
     title: "Traveltical Inc - Software Developer Intern",
     date: "August 2025 - December 2025",
-    description: "Worked as a software developer intern, building and shipping features for the company's travel platform.",
+    description: "Developed features for an AI-driven accounting platform, building tools to automate bookkeeping, transaction categorization, and financial reporting for small businesses.",
     icon: <Image src="/traveltical%20logo.jpeg" alt="Traveltical Inc Icon" width={40} height={40} />,
   },
 
